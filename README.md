@@ -103,7 +103,7 @@ This project helped strengthen practical skills in:
 ![Partner (ERP) Performance](Partner-(ERP)-Performance.png)
 
 ## Gateway wise and payment method
-![Gateway wise and payment method](Gateway=wise-and-payment-method.png)
+![Gateway wise and payment method](Gateway-wise-and-payment-method.png)
 
 ## Pending vs settled report
 ![Pending vs settled report](Pending-vs-settled-report.png)
@@ -115,4 +115,4 @@ This project helped strengthen practical skills in:
 ![Edviron dashboard](Edviron-dashboard.png)
 
 ## Dashboard explanation
-![Dashboard explanation](Dashboard-explanation.png)
+![Dashboard explanation](dashboard-explanation.png)
