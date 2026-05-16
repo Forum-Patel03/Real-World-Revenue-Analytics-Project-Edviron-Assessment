@@ -97,12 +97,12 @@ This project helped strengthen practical skills in:
 
 ## Analysis
 ## Executive Dashboard
-![Executive Dashboard](screenshots/executive-dashboard.png)
+![Executive Dashboard](edviron-dashboard.png)
 
 ## ERP Performance Analysis
 ![ERP Analysis](Partner (ERP) Performance.png)
 
-!Daily-Weekly-Monthly_revenue.png
+![Executive Dashboard](Daily-Weekly-Monthly_revenue.png)
 
 ## Gateway & Payment Analysis
 ![Gateway Analysis](Gateway wise and payment method.png)
