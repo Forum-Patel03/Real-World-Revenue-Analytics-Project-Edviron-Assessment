@@ -96,13 +96,23 @@ This project helped strengthen practical skills in:
 - Real-world problem solving
 
 ## Analysis
-## Executive Dashboard
-![Executive Dashboard](edviron-dashboard.png)
+## Daily-Weekly-Monthly_revenue
+![Daily-Weekly-Monthly_revenue](Daily-Weekly-Monthly_revenue.png)
 
-## ERP Performance Analysis
-![ERP Analysis](Partner (ERP) Performance.png)
+## Partner (ERP) Performance
+![Partner (ERP) Performance](Partner-(ERP)-Performance.png)
 
-![Executive Dashboard](Daily-Weekly-Monthly_revenue.png)
+## Gateway wise and payment method
+![Gateway wise and payment method](Gateway=wise-and-payment-method.png)
 
-## Gateway & Payment Analysis
-![Gateway Analysis](Gateway wise and payment method.png)
+## Pending vs settled report
+![Pending vs settled report](Pending-vs-settled-report.png)
+
+## Dashboard pivots
+![Dashboard pivots](Dashboard-pivots.png)
+
+## Edviron dashboard
+![Edviron dashboard](Edviron-dashboard.png)
+
+## Dashboard explanation
+![Dashboard explanation](Dashboard-explanation.png)
