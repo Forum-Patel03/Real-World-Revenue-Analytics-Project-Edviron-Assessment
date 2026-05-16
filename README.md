@@ -95,20 +95,35 @@ This project helped strengthen practical skills in:
 - KPI tracking
 - Real-world problem solving
 
-## Analysis
+---
+
+## Business Problem Statement
+
+The objective of this project was to analyze transactional and revenue data to identify:
+- Revenue trends
+- ERP partner performance
+- Settlement efficiency
+- Gateway performance
+- Payment method insights
+
+The dashboards and reports were designed to support operational monitoring, revenue reporting, and business decision-making through interactive Excel-based analytics.
+
+---
+
+## Dashboard Screenshots
 ## Daily-Weekly-Monthly_revenue
 ![Daily-Weekly-Monthly_revenue](Daily-Weekly-Monthly_revenue.png)
 
 ## Partner (ERP) Performance
 ![Partner (ERP) Performance](Partner-(ERP)-Performance.png)
 
-## Gateway wise and payment method
+## Gateway & Payment Method Analysis
 ![Gateway wise and payment method](Gateway-wise-and-payment-method.png)
 
-## Pending vs settled report
+## Pending vs Settled Analysis
 ![Pending vs settled report](Pending-vs-settled-report.png)
 
-## Dashboard pivots
+## Pivot-Based Dashboard Reports
 ![Dashboard pivots](Dashboard-pivots.png)
 
 ## Edviron dashboard
